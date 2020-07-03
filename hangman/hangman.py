@@ -1,6 +1,5 @@
 # hangman game
 # author: maskedMartian
-# date: 2-28-2020
 
 # ==================================== imports ====================================
 import random
